@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+## Description
+This project is the outcome of following the book [Modern Front End Architecture](https://www.amazon.com/Modern-Front-end-Architecture-Development-Components/dp/1484266242/ref=sr_1_1?crid=3CUADKYM06PVI&keywords=front-end+architecture&qid=1657792050&sprefix=front-end+architectur%2Caps%2C209&sr=8-1) example project. 
+
+Terms: 
+- storybook 
+- Hygen
+- styled-componenets 
+- Atomic Design Methodology
+- Jest & React-Testing-Library
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
