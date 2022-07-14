@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserProfile renders as expected 1`] = `
+<div>
+  <div>
+     Hello form UserProfile 
+  </div>
+</div>
+`;

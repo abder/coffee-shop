@@ -1,0 +1,21 @@
+import { Meta, Story, Canvas, ArgsTable } from '@storybook/addon-docs';
+import { UserProfile } from './UserProfile';
+import { action } from "@storybook/addon-actions";
+
+<Meta title="screens/UserProfile" component={UserProfile} argTypes={{}}/>
+
+export const Template = (args) => <UserProfile {...args} />;
+
+# UserProfile
+This is the description of UserProfile
+
+<Canvas>
+  <Story name="Default" args={{}}>
+    {Template.bind()}
+  </Story>
+</Canvas>
+
+<ArgsTable story="Default" />
+
+
+
